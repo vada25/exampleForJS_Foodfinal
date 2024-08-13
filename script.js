@@ -27,3 +27,4 @@ window.addEventListener('DOMContentLoaded', function() {
     timer('.timer', '2024-09-15');
 });
 
+document.getElementById('#hi');

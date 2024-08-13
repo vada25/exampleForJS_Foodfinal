@@ -781,7 +781,7 @@ window.addEventListener('DOMContentLoaded', function() {
     (0,_js_modules_timer__WEBPACK_IMPORTED_MODULE_6__["default"])('.timer', '2024-09-15');
 });
 
-
+document.getElementById('#hi');
 /******/ })()
 ;
 //# sourceMappingURL=bundle.js.map
